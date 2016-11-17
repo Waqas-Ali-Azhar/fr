@@ -1,0 +1,23 @@
+body div.st-content-inner{
+  	background-size:cover;
+}
+
+header div.header-wrapper{
+  background-color:#cf9fdc;
+}
+
+body #primary div.sidebar-with-border{
+  background-color:#b5abed;
+}
+
+body #primary ul li div.product-wrapper{
+  background-color:white;
+}
+
+#header-search{
+ 	background-color:#ffffff;
+}
+
+body #menu-shop-by-category .bigmenu div.submenu ul.sub-menu{
+  background-image:none;
+}
